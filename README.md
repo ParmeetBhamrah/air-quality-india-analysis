@@ -7,7 +7,7 @@ An exploratory data analysis project using real-time air quality data from vario
 1. **Compare average pollution levels across Indian states and cities.**
 2. **Analyze correlations among pollutant metrics.**
 3. **Identify and visualize the most polluted monitoring stations.**
-4. **Study temporal trends in pollution levels using timestamps.**
+4. **Regional Pollution Patterns and Dominant Pollutants Across India.**
 5. **Visualize spatial distribution using geographic coordinates.**
 
 ## Tools & Libraries
