@@ -1,4 +1,4 @@
-# Real-Time Air Quality Analysis (India)
+# Real-Time Air Quality Analysis of India
 
 An exploratory data analysis project using real-time air quality data from various locations in India, sourced from data.gov.in. The project involves cleaning, analyzing, and visualizing the data to understand pollution trends across locations.
 
